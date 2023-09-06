@@ -22,5 +22,5 @@ export default defineConfig({
       "@": path.resolve(__dirname, "src"),
     },
   },
-  base: "multi-app4",
+  base: "/multi-app4",
 });
