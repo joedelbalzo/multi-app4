@@ -1,0 +1,19 @@
+body {
+  background-color: whitesmoke;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva,
+    Verdana, sans-serif;
+}
+
+ul {
+  background-color: rgba(200, 200, 200, 0.5);
+  border: 4px solid blue;
+  border-radius: 1rem;
+  box-shadow: 4px 4px 8px 1px rgba(00, 0, 200, 0.5);
+  padding: 1rem;
+  margin: 1rem;
+}
+
+li {
+  padding: 0 1rem;
+  margin: 0 1rem;
+}
